@@ -2,6 +2,8 @@
 
 Linkdin: www.linkedin.com/in/woodrow-crawford
 
+Resume: https://resume.creddle.io/resume/c71afeyiwqm
+
 Itch page: https://pheonyxgames.itch.io/
 
 Email: woodrowcrawford03@gmail.com

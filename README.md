@@ -4,8 +4,9 @@ Linkdin: www.linkedin.com/in/woodrow-crawford
 
 Itch page: https://pheonyxgames.itch.io/
 
+Email: woodrowcrawford03@gmail.com
 
-## Games: 
+
 
 <!--
 

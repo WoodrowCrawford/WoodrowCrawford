@@ -1,5 +1,13 @@
 ### Game Programmer
 
+
+
+I'm currently a student at Academy of Interactive Entertainment learning programming and game development. So far I have helped create 2 games with my team, and I'm also working on a few personal ones on my own.
+I have 2 years of coding in unity and 1 year in unreal engine 4, but I have learned so much about both engines.
+Other projects that I have worked on include data structures, linked lists, Creating a library from scratch for visual studio, cross platform development, and AI.
+
+Languages: C# and C++
+
 Linkdin: www.linkedin.com/in/woodrow-crawford
 
 Resume: https://resume.creddle.io/resume/c71afeyiwqm

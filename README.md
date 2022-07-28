@@ -8,8 +8,11 @@ Other projects that I have worked on include data structures, linked lists, anim
 
 Languages: C# and C++
 
+
 * Linkdin: www.linkedin.com/in/woodrow-crawford
-* Resume: [ProgrammingResume.pdf](https://github.com/WoodrowCrawford/WoodrowCrawford/files/8920336/ProgrammingResume.pdf)
+* Resume: [Woodrow-Crawford-Programming-Resume.pdf](https://github.com/WoodrowCrawford/WoodrowCrawford/files/9213585/Woodrow-Crawford-Programming-Resume.pdf)
+
+
 * Itch page: https://pheonyxgames.itch.io/
 * Email: woodrowcrawford03@gmail.com
 

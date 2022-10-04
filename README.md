@@ -1,11 +1,12 @@
-### Game Programmer
+### Indie Developer
 
 
-I'm an undergraduate from Academy of Interactive Entertainment, which specializes in game programming and game development. So far I have helped create 2 games with my team, and I'm also working on a few personal ones on my own.
-I have 2 years of coding in unity and in unreal engine 4, and I have learned so much about both engines.
+I'm an undergraduate from Academy of Interactive Entertainment, and I specialize in Video Game Programming and Development. As a naturally curious individual, I am always driven by learning new things and overcoming obstacles.
 
-Other projects that I have worked on include data structures, linked lists, animation, Creating a library from scratch for visual studio, cross platform development, and AI.
+I have worked on a few shipped games with my past team members, and I have a plethora of projects on my GitHub ranging from Artificial Intelligence to cross platform development.
 
+
+Engines: Unity and Unreal Engine
 Languages: C# and C++
 
 

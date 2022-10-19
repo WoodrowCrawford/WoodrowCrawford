@@ -1,13 +1,11 @@
 ### Indie Developer
 
 
-I'm an undergraduate from Academy of Interactive Entertainment, and I specialize in Video Game Programming and Development. As a naturally curious individual, I am always driven by learning new things and overcoming obstacles.
+Indie Game Developer with over 3 years of experience using C# and C++. Experienced in game engines such as Unity and Unreal Engine.
 
-I have worked on a few shipped games with my past team members, and I have a plethora of projects on my GitHub ranging from Artificial Intelligence to cross platform development.
+Graduated at Academy of Interactive Entertainment with an Advanced Diploma in Professional Game Development and Game Programming.
 
-
-Engines: Unity and Unreal Engine
-Languages: C# and C++
+Extremely passionate about making video games that impact others. Looking for an opportunity to work at a game studio.
 
 
 * Linkdin: www.linkedin.com/in/woodrow-crawford

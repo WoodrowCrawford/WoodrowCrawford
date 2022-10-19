@@ -2,9 +2,7 @@
 
 
 Indie Game Developer with over 3 years of experience using C# and C++. Experienced in game engines such as Unity and Unreal Engine.
-
 Graduated at Academy of Interactive Entertainment with an Advanced Diploma in Professional Game Development and Game Programming.
-
 Extremely passionate about making video games that impact others. Looking for an opportunity to work at a game studio.
 
 

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **woodrowcrawford03@gmail.com**
 
-- 📄 Know about my experiences [Woodrow-Crawford-Programming-Resume.pdf](Woodrow-Crawford-Programming-Resume.pdf)
+- 📄 Know about my experiences [Woodrow-Crawford-Programming-Resume.pdf](https://github.com/WoodrowCrawford/WoodrowCrawford/files/9944721/Woodrow-Crawford-Programming-Resume.pdf)
 
 - ⚡ My motto **"There is no progress without failure."**
 

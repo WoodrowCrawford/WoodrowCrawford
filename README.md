@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Insomnia](https://github.com/WoodrowCrawford/Themed-Horror-Game-Jam8-Halloween-Edition)
 
-- 🌱 I’m currently learning **.Net, Python, Horror Design**
+- 🌱 I’m currently learning **.Net, Python, Swift**
 
 - 👯 I’m looking to collaborate on **Any Unity or Unreal projects**
 

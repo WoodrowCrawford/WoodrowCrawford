@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **woodrowcrawford03@gmail.com**
 
-- 📄 Know about my experiences [Woodrow-Crawford-Game-Programmer-Resume.pdf](https://github.com/user-attachments/files/22537631/Woodrow-Crawford-Game-Programmer-Resume.pdf)
+- 📄 Know about my experiences [Woodrow-Crawford-Game-Programming-Resume.pdf](https://github.com/user-attachments/files/25529617/Woodrow-Crawford-Game-Programming-Resume.pdf)
+
 
 
 

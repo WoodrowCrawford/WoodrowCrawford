@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [Pas de Deux: A Duet of Roses](https://github.com/WoodrowCrawford/SWAK-Jam-2026)
 
-- 🌱 I’m currently learning **.Net, Python, Swift**
+- 🌱 I’m currently learning **ASP.NET, Front-End, HTML**
 
 - 👯 I’m looking to collaborate on **Any Unity or Unreal projects**
 
 - 👨‍💻 Where to find games I shipped [https://pheonyxgames.itch.io/](https://pheonyxgames.itch.io/)
 
-- 💬 Ask me about **Game Development**
+- 💬 Ask me about **Game Development, .NET Development**
 
 - 📫 How to reach me **woodrowcrawford03@gmail.com**
 

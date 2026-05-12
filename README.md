@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Pepper Palace Search Tool](https://github.com/WoodrowCrawford/PepperPalaceSearchTool)
 
-- 🌱 I’m currently learning **ASP.NET, Front-End, HTML**
+- 🌱 I’m currently learning **React and Azure Deployment**
 
 - 👯 I’m looking to collaborate on **Game Development or .NET projects**
 

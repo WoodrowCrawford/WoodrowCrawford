@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Woodrow Crawford</h1>
-<h3 align="center">An Indie Game Developer</h3>
+<h3 align="center"> A Software Developer working in game development and backend software engineering</h3>
 
 
 

@@ -41,6 +41,14 @@
   https://www.linkedin.com/in/woodrow-crawford/
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=woodrowcrawford&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="woodrowcrawford"/>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woodrowcrawford&theme=dark" alt="woodrowcrawford" /></p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -89,8 +97,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woodrowcrawford&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="woodrowcrawford" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woodrowcrawford&show_icons=true&theme=tokyonight&locale=en" alt="woodrowcrawford" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woodrowcrawford&theme=dark" alt="woodrowcrawford" /></p>
+
+
+
+

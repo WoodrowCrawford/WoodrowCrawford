@@ -8,11 +8,11 @@
 
 
 
-- 🔭 I’m currently working on [Pas de Deux: A Duet of Roses](https://github.com/WoodrowCrawford/SWAK-Jam-2026)
+- 🔭 I’m currently working on [Pepper Palace Search Tool](https://github.com/WoodrowCrawford/PepperPalaceSearchTool)
 
 - 🌱 I’m currently learning **ASP.NET, Front-End, HTML**
 
-- 👯 I’m looking to collaborate on **Any Unity or Unreal projects**
+- 👯 I’m looking to collaborate on **Game Development or .NET projects**
 
 - 👨‍💻 Where to find games I shipped [https://pheonyxgames.itch.io/](https://pheonyxgames.itch.io/)
 

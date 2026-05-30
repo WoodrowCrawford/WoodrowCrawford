@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **woodrowcrawford03@gmail.com**
 
-- 📄 Know about my experiences [Woodrow_Crawford_Software_Engineer_Resume.pdf](https://github.com/user-attachments/files/28417524/Woodrow_Crawford_Software_Engineer_Resume.pdf)
+- 📄 Know about my experiences [Woodrow_Crawford_Software_Engineer_Resume.pdf](https://github.com/user-attachments/files/28417616/Woodrow_Crawford_Software_Engineer_Resume.pdf)
+
 
 
 
@@ -41,11 +42,8 @@
   https://www.linkedin.com/in/woodrow-crawford/
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=woodrowcrawford&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="woodrowcrawford"/>
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woodrowcrawford&theme=dark" alt="woodrowcrawford" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=woodrowcrawford&theme=dark" alt="woodrowcrawford" /></p>
 
 
 
